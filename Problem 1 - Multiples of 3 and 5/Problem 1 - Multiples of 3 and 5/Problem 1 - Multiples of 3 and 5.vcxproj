@@ -115,11 +115,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Problem1-OG\Problem1\main.cpp" />
-    <ClCompile Include="..\..\..\Problem1-OG\Problem1\Problem1.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Problem1.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\Problem1-OG\Problem1\Problem1.h" />
+    <ClInclude Include="Problem1.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

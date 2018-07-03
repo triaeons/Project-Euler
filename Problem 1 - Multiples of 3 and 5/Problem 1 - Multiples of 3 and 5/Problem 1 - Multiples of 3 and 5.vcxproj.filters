@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Problem1-OG\Problem1\Problem1.cpp">
+    <ClCompile Include="Problem1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Problem1-OG\Problem1\main.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\Problem1-OG\Problem1\Problem1.h">
+    <ClInclude Include="Problem1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
