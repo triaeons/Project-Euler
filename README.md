@@ -4,3 +4,5 @@
 * [Problem 1](https://projecteuler.net/problem=1) - Multiples of 3 and 5: contains solutions using recursion, tail recursion, and calculating finite series
 
 * [Problem 2](https://projecteuler.net/problem=2) - Even Fibonacci numbers: main.cpp contains iterative solution in addition to solution that solves the problem by adding only                 every third term in the Fibonacci sequence (which are the even numbers if we start with 1, 1, 2, ...). (Memoized) Recursive                 solutions are incomplete, as they calculate the sum of even numbers in the sequence incorrectly and are found in Problem2.h                 and Problem2.cpp.
+
+* [Problem 3](https://projecteuler.net/problem=3) - Largest prime factor: we can find all factors of a number by iterating (seeing if n mod i = 0) up to the square root of n. Since factors are always paired, i is one factor and n/i is the other factor. We then iterate again through the list of factors to find the largest prime.
