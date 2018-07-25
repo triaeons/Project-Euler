@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 4 - Largest palindrome product", "Problem 4 - Largest palindrome product\Problem 4 - Largest palindrome product.vcxproj", "{05C3AC5C-2485-459A-951D-B76822E82D18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05C3AC5C-2485-459A-951D-B76822E82D18}.Debug|x64.ActiveCfg = Debug|x64
+		{05C3AC5C-2485-459A-951D-B76822E82D18}.Debug|x64.Build.0 = Debug|x64
+		{05C3AC5C-2485-459A-951D-B76822E82D18}.Debug|x86.ActiveCfg = Debug|Win32
+		{05C3AC5C-2485-459A-951D-B76822E82D18}.Debug|x86.Build.0 = Debug|Win32
+		{05C3AC5C-2485-459A-951D-B76822E82D18}.Release|x64.ActiveCfg = Release|x64
+		{05C3AC5C-2485-459A-951D-B76822E82D18}.Release|x64.Build.0 = Release|x64
+		{05C3AC5C-2485-459A-951D-B76822E82D18}.Release|x86.ActiveCfg = Release|Win32
+		{05C3AC5C-2485-459A-951D-B76822E82D18}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9EECFDB-C27B-4ABD-8F3A-AED5592EE8A5}
+	EndGlobalSection
+EndGlobal
